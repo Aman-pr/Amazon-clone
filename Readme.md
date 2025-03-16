@@ -41,7 +41,7 @@ This project is a basic Amazon clone that replicates the look and feel of the Am
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/amazon-clone.git](https://github.com/Aman-pr/Amazon-clone.git
+git clone https://github.com/Aman-pr/Amazon-clone.git
 ```
 
 2. Navigate to the project directory:
